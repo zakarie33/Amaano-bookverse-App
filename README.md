@@ -29,23 +29,28 @@ Home & Discovery
 <p align="center">
   <img src="screenshots/mobile/home.png" width="200" alt="Home">
   &nbsp;&nbsp;
+  <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 39_AM__2_-removebg-preview" src="https://github.com/user-attachments/assets/ca06c3ef-7663-4437-b14c-3a46f89829eb" />
+
   <img src="screenshots/mobile/details.jpg" width="200" alt="Book Details">
+  <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 38_AM__3_-removebg-preview" src="https://github.com/user-attachments/assets/59273251-f7c6-441e-a935-7e61501f43a0" />
   &nbsp;&nbsp;
- <img width="200"  alt="Book cart" src="https://github.com/user-attachments/assets/a44bc372-60da-4bd3-98ca-e567294810d2" />
+<img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 38_AM__2_-removebg-preview" src="https://github.com/user-attachments/assets/d061ee18-6655-4e9e-b88c-f1286be1fa07" />
 
   &nbsp;&nbsp;
-  <img src="screenshots/mobile/purchases.jpg" width="200" alt="Purchases">
-</p>
+
 
 <p align="center">
-  <img src="screenshots/mobile/interests.jpg" width="200" alt="Interests">
+  <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 41_AM-removebg-preview" src="https://github.com/user-attachments/assets/9f04c6bc-82ba-4e39-b067-285b29011e78" />
   &nbsp;&nbsp;
-  <img src="screenshots/mobile/verification-method.png" width="200" alt="Verification Method">
+ <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 40_AM-removebg-preview" src="https://github.com/user-attachments/assets/7b5b56bd-5f9a-4b0d-a3d6-744b87458ed8" />
+
   &nbsp;&nbsp;
-  <img src="screenshots/mobile/email-verification.png" width="200" alt="Email Verification">
+  <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 40_AM-removebg-preview" src="https://github.com/user-attachments/assets/0e4bd4dd-eaf4-4f33-9f04-4e59d396a3a7" />
+
   &nbsp;&nbsp;
-  <img src="screenshots/mobile/onboarding.jpg" width="200" alt="Onboarding">
-</p>
+<img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 39_AM__1_-removebg-preview" src="https://github.com/user-attachments/assets/d5eea274-1f8c-4251-9301-229a6a61bd34" />
+  &nbsp;&nbsp;
+<img width="447" height="559" alt="WhatsApp_Image_2026-08-24_at_7 52 38_AM-removebg-preview" src="https://github.com/user-attachments/assets/dc69d7cc-8c1d-409e-bb68-3589e949e9d2" />
 
 Admin Panel
 
