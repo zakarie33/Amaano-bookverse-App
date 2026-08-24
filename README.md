@@ -32,16 +32,11 @@ Home & Discovery
 
   &nbsp;&nbsp;
   <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 39_AM__2_-removebg-preview" src="https://github.com/user-attachments/assets/ca06c3ef-7663-4437-b14c-3a46f89829eb" />
-
   <img width="200" alt="WhatsApp_Image_2026-08-24_at_7 52 39_AM__1_-removebg-preview" src="https://github.com/user-attachments/assets/7494938e-bfee-4987-9165-7108e39dcd96" />
-
   <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 38_AM__3_-removebg-preview" src="https://github.com/user-attachments/assets/59273251-f7c6-441e-a935-7e61501f43a0" />
   &nbsp;&nbsp;
 <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 38_AM__2_-removebg-preview" src="https://github.com/user-attachments/assets/d061ee18-6655-4e9e-b88c-f1286be1fa07" />
-
   &nbsp;&nbsp;
-
-
 <p align="center">
   <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 41_AM-removebg-preview" src="https://github.com/user-attachments/assets/9f04c6bc-82ba-4e39-b067-285b29011e78" />
   &nbsp;&nbsp;
