@@ -1,3 +1,4 @@
+<img width="432" height="577" alt="WhatsApp_Image_2026-08-24_at_7 52 39_AM__1_-removebg-preview" src="https://github.com/user-attachments/assets/cc520203-f219-4286-ac4f-a8886bb649e9" />
 Mobile Application
 
 The BookVerse mobile application provides the complete user experience for discovering, purchasing, reading, and listening to digital content.
@@ -31,7 +32,8 @@ Home & Discovery
   &nbsp;&nbsp;
   <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 39_AM__2_-removebg-preview" src="https://github.com/user-attachments/assets/ca06c3ef-7663-4437-b14c-3a46f89829eb" />
 
-  <img src="screenshots/mobile/details.jpg" width="200" alt="Book Details">
+  <img width="200" alt="WhatsApp_Image_2026-08-24_at_7 52 39_AM__1_-removebg-preview" src="https://github.com/user-attachments/assets/7494938e-bfee-4987-9165-7108e39dcd96" />
+
   <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 38_AM__3_-removebg-preview" src="https://github.com/user-attachments/assets/59273251-f7c6-441e-a935-7e61501f43a0" />
   &nbsp;&nbsp;
 <img width="200"  alt="WhatsApp_Image_2026-08-24_at_7 52 38_AM__2_-removebg-preview" src="https://github.com/user-attachments/assets/d061ee18-6655-4e9e-b88c-f1286be1fa07" />
