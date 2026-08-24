@@ -31,7 +31,8 @@ Home & Discovery
   &nbsp;&nbsp;
   <img src="screenshots/mobile/details.jpg" width="200" alt="Book Details">
   &nbsp;&nbsp;
-  <img src="screenshots/mobile/cart.jpg" width="200" alt="Shopping Cart">
+ <img width="200"  alt="Book cart" src="https://github.com/user-attachments/assets/a44bc372-60da-4bd3-98ca-e567294810d2" />
+
   &nbsp;&nbsp;
   <img src="screenshots/mobile/purchases.jpg" width="200" alt="Purchases">
 </p>
