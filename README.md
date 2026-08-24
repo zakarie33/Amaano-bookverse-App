@@ -24,18 +24,27 @@ Mobile App Screenshots
 
 Home & Discovery
 
-<img width="809" height="1080" alt="image" src="https://github.com/user-attachments/assets/22489316-7e9a-405e-85a2-1af094ec86fb" />
+<h3 align="center">Mobile App Screenshots</h3>
 
+<p align="center">
+  <img src="screenshots/mobile/home.png" width="200" alt="Home">
+  &nbsp;&nbsp;
+  <img src="screenshots/mobile/details.jpg" width="200" alt="Book Details">
+  &nbsp;&nbsp;
+  <img src="screenshots/mobile/cart.jpg" width="200" alt="Shopping Cart">
+  &nbsp;&nbsp;
+  <img src="screenshots/mobile/purchases.jpg" width="200" alt="Purchases">
+</p>
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/79cf31ce-b18f-48ab-b0f0-d5df62ce6d29" />
-
-<img width="809" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fbe4a29-2c07-45ce-92f0-24955b2880ac" />
-<img width="426" height="922" alt="image" src="https://github.com/user-attachments/assets/cd22caf3-7cf2-442f-831e-758d8b21a1dd" />
-
-
-<img width="420" height="935" alt="image" src="https://github.com/user-attachments/assets/8bf17a57-c989-4ebc-90b1-c8e28b8d5944" />
-
-<img width="809" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd11c9e7-e969-46df-96d3-3cc632a55f6f" />
+<p align="center">
+  <img src="screenshots/mobile/interests.jpg" width="200" alt="Interests">
+  &nbsp;&nbsp;
+  <img src="screenshots/mobile/verification-method.png" width="200" alt="Verification Method">
+  &nbsp;&nbsp;
+  <img src="screenshots/mobile/email-verification.png" width="200" alt="Email Verification">
+  &nbsp;&nbsp;
+  <img src="screenshots/mobile/onboarding.jpg" width="200" alt="Onboarding">
+</p>
 
 Admin Panel
 
